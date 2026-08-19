@@ -6,3 +6,6 @@
 4. clean training loop in-code
 5. test
 
+
+then do: https://gymnasium.farama.org/tutorials/training_agents/mujoco_reinforce/
+

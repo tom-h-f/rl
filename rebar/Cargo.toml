@@ -1,8 +1,0 @@
-[package]
-name = "rebar"
-version = "0.1.0"
-edition = "2024"
-license = "MIT"
-description = "Reinforcement learning but oxidised "
-
-[dependencies]
